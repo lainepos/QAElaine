@@ -1,2 +1,2 @@
 # QAElaine
-Este Repositoria é para apresentação dos testes Api QuickMocker
+Este Repositorio é para apresentação dos testes Api QuickMocker
